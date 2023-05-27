@@ -23,9 +23,9 @@ Whether it be through a poem song lyric or even just a heartwarming personal sto
 
 # Screen Shot
 
-![screenshot1](images/shot1.png)
-![screenshot2](images/shot2.png)
-![screenshot3](images/shot3.png)
-![screenshot4](images/shot4.png)
-![screenshot5](images/shot5.png)
-![screenshot5](images/shot6.png)
+![screenshot1](public/images/shot1.png)
+![screenshot2](public/images/shot2.png)
+![screenshot3](public/images/shot3.png)
+![screenshot4](public/images/shot4.png)
+![screenshot5](public/images/shot5.png)
+![screenshot5](public/images/shot6.png)
